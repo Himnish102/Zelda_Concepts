@@ -4,7 +4,7 @@
 
 A Zelda Overworld Map created in 3DS Max inspired by the franchise of Legend Of Zelda.
 
-'Mapping of Assets' file contains characters from all parts of the franchise such as Tetra and Midna. 
+`Zelda_Map_of_Assets.max` file contains characters from all parts of the franchise such as Tetra and Midna (in first google drive link). 
  
 Skills/languages used: __Level design, Animation__
 and Hosted on: __3DS Max__
